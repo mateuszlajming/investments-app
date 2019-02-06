@@ -8,7 +8,7 @@ Simple app which **generates a portfolio** based on the:
 -  preferred investment strategy
 -  list of available funds
 
-####Investment strategies
+#### Investment strategies
 
 |Name|Polish Investment Funds|Foreign Investment Funds|Money Market Funds|
 |---|---|---|---|
