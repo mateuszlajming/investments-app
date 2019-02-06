@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mateuszlajming/investments-app.svg?branch=master)](https://travis-ci.org/mateuszlajming/investments-app)
+
 # investments-app
 
 Simple app which **generates a portfolio** based on the:
